@@ -1,7 +1,7 @@
 # Inventory Management System
 
 A simple command-line inventory management system built in Python to practice
-**custom exception handling**. I Followed principles from *Clean Code* (Robert C. Martin) — meaningful names,
+custom exception handling and revise OOP concepts. I Followed principles from Clean Code(Robert C. Martin) — meaningful names,
   small functions, single responsibility. 
 
 ## What it does
